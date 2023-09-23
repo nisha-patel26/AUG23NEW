@@ -14,7 +14,8 @@ Install IntelliJ program.
 
 Create a Maven project. Add the required dependencies to the pom.xml file. Refer to the picture below for the list dependencies.
 
-image
+![image](https://github.com/nisha-patel26/AUG23NEW/assets/141358084/7b5fd8bc-2f2a-48f8-be70-8aeb63882c96)
+
 Dependencies
 
 Project Progress So far, we have accomplished the following tasks:
@@ -55,7 +56,7 @@ Created the following packages in src/main/test/java:
 
 • utilities
 
-image
-Date and Time Date: 2023-08-06 Time: 10:33:31
+![image](https://github.com/nisha-patel26/AUG23NEW/assets/141358084/64dede21-765e-46ef-a3bd-7b9a66ce8a4c)
+
 
 Next Task - ReadMe File Our next task is to create a ReadMe file in GitHub. This ReadMe file will serve as documentation, providing important information about the project and its usage.
